@@ -1,0 +1,23 @@
+{
+  "pins" : [
+    {
+      "identity" : "momento-ios-sdk",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/momento-ads/momento-ios-sdk.git",
+      "state" : {
+        "revision" : "65af555a65eaa3c9f8ef53be82f34cbd8dee0ab4",
+        "version" : "1.0.5"
+      }
+    },
+    {
+      "identity" : "xarvis_ios",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/thezooom/Xarvis_iOS.git",
+      "state" : {
+        "revision" : "1782e3df350b1cf36dc980ddb49ded6a4e3dd9c7",
+        "version" : "0.2.0"
+      }
+    }
+  ],
+  "version" : 2
+}
